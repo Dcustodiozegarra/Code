@@ -1,2 +1,2 @@
-# Code
-Compilation of R programming codes
+# DiddDock
+git clone https://github.com/ketatam/DiffDock-PP.git
